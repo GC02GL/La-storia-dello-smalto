@@ -27,7 +27,7 @@ body {
     width: 170%;
     min-height: 100vh;
     padding: 100px;
-    background: url(/assets/img/video.mp4);
+    background: url(/assets/img/image.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -55,7 +55,7 @@ body {
 
 h1 {
     margin: 
-    0% -40% -20% 10%;
+    0% -40% -40% -10%;
     font-size: 6em;
 }
 
