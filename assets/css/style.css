@@ -27,7 +27,7 @@ body {
     width: 170%;
     min-height: 100vh;
     padding: 100px;
-    background: url(../img/Video.mp4);
+    background: url(/assets/img/Video.mp4);
     background-size: cover;
     display: flex;
     align-items: center;
