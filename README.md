@@ -7,7 +7,7 @@ Elaborato 2: La storia dello smalto
 # La storia dello smalto
 Autore: Gloria Corradin
 
-https://ixd-supsi.github.io/2023/progetti/La-storia-dello-smalto/
+[https://ixd-supsi.github.io/2023/progetti/La-storia-dello-smalto/](https://github.com/GC02GL/La-storia-dello-smalto)
 
 
 
