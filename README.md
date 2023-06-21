@@ -31,13 +31,8 @@ Prima di iniziare a progettare il mio sito ho disegnato il sito su Xd per avere 
 
 ## Design dell’interfraccia e modalià di interazione
 Per il mio sito web ho deciso di riportare un colore ricorrente ovvero il rosa, un colore femminile e delicato che riporta coerenza con il tema del sito.
-La home del sito si presenta con un header e con una foto in primo piano del soggetto del tema che l'utente andrà ad interagire. 
-Il sito sarà poi costituito da un introduzione approfondita del tema per poi passare ad una serie di capitoli dove verranno mostrati i passaggi dello smalto dal 1900 ai giorni nostri. Ogni capitolo è caratterizzato da una data ben visibile per far intendere all'utente in che tipo di anno siamo e un titolo accattivante per attirare la sua attenzione.
-Per spezzare il layout ho aggiunto un rettangolo rosa dove ci sarà la possibilità di informarsi su ulteriori curiosità sullo smalto cliccando sul pulsante "scopri di più".
-
-
-
-
+La home del sito si presenta con un header e con una foto in primo piano del soggetto del tema. 
+Il sito sarà poi costituito da un introduzione approfondita del tema per poi passare ad una serie di capitoli dove verranno mostrati i passaggi dello smalto dal 1900 ai giorni nostri. Ogni capitolo è caratterizzato da una data ben visibile per far intendere all'utente in che tipo di anno siamo e un titolo accattivante per attirare la sua attenzione. Per spezzare il layout ho aggiunto un rettangolo rosa dove ci sarà la possibilità di informarsi su ulteriori curiosità sullo smalto cliccando sul pulsante "scopri di più".
 
 
 
