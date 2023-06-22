@@ -12,6 +12,20 @@ body {
     font-size: 18px;
 }
 
+
+    .imgBx1{ 
+        display: none;
+padding: 50px;
+    }
+
+
+
+  
+
+
+
+   
+
 .header {
     border: 0px ;
     width: 200%;
@@ -55,7 +69,7 @@ body {
 
 h1 {
     margin: 
-    0% -40% -70% 10%;
+    0% -40% -70% -5%;
     font-size: 6em;
 }
 
@@ -69,8 +83,20 @@ h3 {
 }
 
 h4 {
-    margin: 0;
+    margin: 10;
+    margin-left: 10;
 }
+.anim {
+    color: black;
+    transition: color 100ms;
+    font-family: sans-serif;
+    }
+
+    .anim:hover {
+        color: rgb(238, 87, 238);
+        /* font-size: 0.5em; */
+    }
+
 
 header,
 section {
@@ -109,27 +135,27 @@ section {
 
 .primo .contentBx3 {
     
-    width: 180%;
+    width: 131%;
     margin-left: 50%;
     margin-top: 60%;
     
 
 }
 .contentBx4 {
-    width: 240%;
-    margin-left: -60%;
+    width: 275%;
+    margin-left: 97%;
     margin-top: 80%;
     padding-bottom: 30%;
     
 }
 .contentBx5 {
-    width: 60%;
-   margin-left:-40%;
+    width: 275%;
+   margin-left:-2%;
     
 }
 .contentBx6{
     width: 240%;
-    margin-left: -60%;
+    margin-left: 96%;
     margin-top: 40%;
     padding-bottom: 30%;
     
@@ -156,9 +182,9 @@ section {
     float: left;
     margin: 0;
     padding: 5px;
-    width: 100%;
+    width: 233%;
     color: #bebebe;
-    margin-left: 104%;
+    margin-left: 894%;
     margin-top: -0%;
 
 }
@@ -177,7 +203,7 @@ section {
     padding: 5px;
     width: 100%;
     color: #bebebe;
-    margin-left: 645%;
+    margin-left: 127%;
     margin-top: -0%;
 }
 .imgBx3 span strong{
@@ -193,7 +219,7 @@ section {
     padding: 5px;
     width: 100%;
     color: #bebebe;
-    margin-left: 40%;
+    margin-left: 435%;
     margin-top: -0%;
 }
 .imgBx4 span strong{
@@ -208,7 +234,7 @@ section {
 .fitBg {
     width: 150%;
     margin-left: -50%;
-    margin-top: -20%;
+    margin-top: -9%;
 }
 
 /* contenitore immagine */
@@ -239,17 +265,16 @@ section {
     margin-top: 30%
 }
 .fitBg1 {
-    width: 80%;
-    margin-left: 105%;
-    margin-top: 95%;
+    width: 419%;
+    margin-left: 900%;
+    margin-top: 868%;
 
 }
 .fitBg2 {
-    width: 200%;
-    margin-left: 650%;
-    margin-top: -300%;
+    width: 58%;
+    margin-left: 128%;
+    margin-top: 22%;
     
-
 }
 .fitBg3 {
     width: 200%;
@@ -257,9 +282,9 @@ section {
     margin-top: -130%;
 }
 .fitBg4{
-    width: 40%;
-    margin-left: 40%;
-    margin-top: 15%;
+    width: 187%;
+    margin-left: 437%;
+    margin-top: 104%;
 }
 
 .titolo-sezione {
@@ -306,8 +331,8 @@ section {
 }
 
 .info {
-    width:600%;
-    margin-left: -120%;
+    width:843%;
+    margin-left: -2%;
     margin-bottom: 800%;
     
 }
@@ -330,6 +355,8 @@ section {
 
 }
 
+
+@media only screen and (max-width: 600px) {
 .grid_footer{
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -339,9 +366,10 @@ section {
 }
 
 
-/* -- breakpoint: schermi piccoli, larghezza massima 500 pixel -- */
 
-@media only screen and (max-width: 600px) {
+
+   
+      
 
     header,
     section {
