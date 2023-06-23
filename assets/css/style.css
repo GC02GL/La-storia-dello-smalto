@@ -41,7 +41,7 @@ padding: 50px;
     width: 170%;
     min-height: 100vh;
     padding: 100px;
-    background: url(/assets/img/image.jpg);
+    
     background-size: cover;
     display: flex;
     align-items: center;
@@ -321,7 +321,7 @@ section {
     background-color: rgb(246, 212, 246);
     padding: 20px;
     margin-top: 40%;
-    margin-right: 10%;
+    margin-right: -57%;
     
 }
 .sfondo2 {
